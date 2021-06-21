@@ -64,5 +64,16 @@ body {
 }
 
 .hold {
-  border: 1px solid #000;
+  background-color: rgb(6, 19, 194);
+  color: rgb(251, 255, 0);
+  font: 20px bolder;
+}
+
+.hovered {
+  border-top: 4px solid rgba(131, 9, 94, 0.753);
+  border-radius: 10%;
+}
+
+.hidden {
+  display: none;
 }
